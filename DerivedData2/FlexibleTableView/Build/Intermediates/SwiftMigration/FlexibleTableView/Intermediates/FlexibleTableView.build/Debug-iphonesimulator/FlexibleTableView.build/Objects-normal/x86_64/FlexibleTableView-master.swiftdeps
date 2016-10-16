@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a644754dc254c807e5df4eec7f13f36e"
+build_time: [529965902, 788534000]
+inputs:
+  "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/Source/FlexibleTableViewCell.swift": [520605636, 0]
+  "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/ViewController.swift": [520605636, 0]
+  "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift": [520605636, 0]
+  "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/Source/FlexibleTableView.swift": [520605636, 0]

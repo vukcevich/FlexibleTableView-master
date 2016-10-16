@@ -1,0 +1,56 @@
+[
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 232,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 306,
+  "remove": 8,
+  "text": "UIApplicationLaunchOptionsKey",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 318,
+  "remove": 7,
+  "text": "y",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 383,
+  "remove": 9,
+  "text": "n",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 581,
+  "remove": 8,
+  "text": "e",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 654,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 1172,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 1610,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 1841,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/marijan/Documents/SVNrep_iphone_2/FlexibleTableView-master/FlexibleTableView/AppDelegate.swift",
+  "offset": 2107,
+  "text": "_ ",
+ }
+]
