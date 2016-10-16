@@ -1,3 +1,7 @@
+
+#Swift 3.0 --- Project converted to latest swift 3.0 syntax.  
+
+
 # FlexibleTableView
 
 A flexible tableview used on iOS implement by swift.
