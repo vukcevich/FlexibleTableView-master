@@ -9,8 +9,9 @@ A flexible tableview used on iOS implement by swift.
 Inspired By [SKSTableView](https://github.com/sakkaras/SKSTableView).
 
 ## Requirements
-- iOS 7.0+
-- Xcode 7.0
+- iOS 10
+- Xcode 8.0
+- Swift 3.0
 
 ## Installation
 
